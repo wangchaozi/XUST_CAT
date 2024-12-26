@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "XUST_CAT",
+  "description": "XUST_CAT_YYDS",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
