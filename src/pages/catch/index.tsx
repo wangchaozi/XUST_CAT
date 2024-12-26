@@ -1,7 +1,4 @@
-import React from 'react'
 import { View } from '@tarojs/components'
-import { Button, Tabbar } from "@nutui/nutui-react-taro"
-import { Cart, Category, Find, Home, User } from '@nutui/icons-react-taro'
 import './index.scss'
 
 function Index() {
